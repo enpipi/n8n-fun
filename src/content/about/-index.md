@@ -1,23 +1,28 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "n8n funはn8nの素晴らしさを紹介するブログです"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "n8n fun is"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "基本操作・Nodeの紹介"
+    description: "n8nの基本操作やベースとなるNodeの使い方を紹介します"
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "n8nワークフローレシピ・Tips"
+    description: "効果的なワークフローの組み方、レシピを紹介します"
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "n8n News"
+    description: "n8nに関連するニュースをいち早くお届けします"
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+n8nは、柔軟なAIワークフロー自動化を提供するプラットフォームです。
+コードの正確さでも、ドラッグ＆ドロップのスピードでも構築可能。オンプレミスでの完全なデータ管理も、クラウドでの手軽さも選択可能。
+n8nは、マルチステップのAIエージェントを実装し、アプリを連携させるための自由度を、他のどのツールよりも提供します。
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+
+
+
+

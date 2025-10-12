@@ -7,6 +7,10 @@
 @import "./safe.css";
 @import "./utilities.css";
 
+/* 前回追加した @layer utilities のカスタムCSS変数の定義は削除します。 */
+/* 代わりに components.css で詳細なセレクタを使ってテーマ変数を適用します。 */
+
+
 @layer base {
   @import "./base.css";
 }
